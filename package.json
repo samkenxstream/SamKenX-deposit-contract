@@ -18,7 +18,7 @@
     "printWidth": 120
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/contracts": "^4.8.3",
     "@truffle/hdwallet-provider": "^1.4.2",
     "dotenv": "^10.0.0",
     "truffle": "^5.4.3",
